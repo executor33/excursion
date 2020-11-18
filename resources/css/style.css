@@ -26,3 +26,11 @@ h4 {
     font-weight: lighter;
     color: gray;
 }
+
+.phone {
+    padding-top: 30px;
+}
+
+.foot {
+    text-align: right;
+}
